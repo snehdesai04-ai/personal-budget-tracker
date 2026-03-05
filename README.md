@@ -8,7 +8,7 @@ Built by **Sneh Desai** — Computer Science Student & SaskTel Employee, Univers
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the live project](https://snehdesai04-ai.github.io/personal-budget-tracker-v2/)
+👉 [Click here to view the live project](https://snehdesai04-ai.github.io/personal-budget-tracker/)
 
 ---
 
